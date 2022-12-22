@@ -1,0 +1,15 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    padding: 100px 50px 75px 75px;
+    height: 400px;
+    width: 100%;
+    text-align: center;
+}
+
+.dog, .duck, .lion {
+    padding-left: 20px;
+}
