@@ -13,3 +13,7 @@ body {
 .dog, .duck, .lion {
     padding-left: 20px;
 }
+
+.pepe {
+    width: 200px;
+}
